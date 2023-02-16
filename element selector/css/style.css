@@ -1,0 +1,19 @@
+h1
+	{
+		color:red;
+		background-color:green;
+		font-size:20px;
+	}
+	
+h2
+	{
+		color:gray;
+		background-color:yellow;
+		font-size:27px;
+	}
+p
+	{
+		color:aqua;
+		background-color:pink;
+		font-size:17px;
+	}

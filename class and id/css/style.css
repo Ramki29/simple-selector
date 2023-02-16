@@ -1,0 +1,20 @@
+.ram
+	{
+		color:red;
+		background-color:green;
+		font-size:10px;
+		}
+		
+.muthu
+	{
+		color:aqua;
+		background-color:yellow;
+		font-size:20px;
+		}
+
+#hi
+	{
+		color:blue;
+		background-color:gray;
+		font-size:15px;
+		}
